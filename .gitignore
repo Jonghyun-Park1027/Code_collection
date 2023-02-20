@@ -1,0 +1,16 @@
+*.zip
+business_data_science/*.jpg
+*.pdf
+*.csv
+*.mp3
+*.mp4
+*.xlsx
+
+.idea/
+crawling/selenium/Lib/
+crawling/selenium/Scripts/
+*.png
+./picture/
+*.jpg
+test/
+train/
