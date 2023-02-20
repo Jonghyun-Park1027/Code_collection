@@ -1,6 +1,6 @@
-# 23.2.19. ~ kaggle competition NFL 충돌 예측
+# 23.2.19. ~ Code collection 
 
-## Implementation
+## Tools
 
-- [Preprocessing](/pratice1.ipynb)
+- [Call back(Early Stopping)](./callback_earlystop.ipynb)
 - 
